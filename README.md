@@ -12,10 +12,14 @@ A curated list of awesome things related to [Apache Flex](http://flex.apache.org
 - [Frameworks](#fws)
 	- [Cairngorm](https://sourceforge.net/adobe/cairngorm/home/Home/)
 	- [Mate Flex Framework](http://mate.asfusion.com/)
-	- [Parsley (Spicefactory)](http://www.spicefactory.org/parsley/)
+	- [Parsley](http://www.spicefactory.org/parsley/)
 	- [The PureMVC Framework](https://github.com/PureMVC/puremvc-as3-multicore-framework) for ActionScript 3
-	- [Fabrication Framework](https://code.google.com/archive/p/fabrication/)<sup>[1](https://github.com/mrthuanvn/fabrication)</sup>
+	- [Fabrication Framework](https://code.google.com/archive/p/fabrication/)<sup title="github fork">[1](https://github.com/mrthuanvn/fabrication)</sup>
 	- [Robotlegs](http://www.robotlegs.org/)
-	- [Swiz framework](https://github.com/swiz/swiz-framework)
+	- [Swiz Framework](https://github.com/swiz/swiz-framework)
 	- [Tide (Granite Data Services)](https://github.com/graniteds/graniteds_archetypes)
 	- [Spring Actionscript](https://github.com/spring-projects/spring-actionscript)
+	- [Hydra Framework](https://github.com/lukesh/hydraframework_core)
+	- [Flight Framework](https://github.com/jacwright/flight-framework)
+	- [Hemlock](https://github.com/mintdigital/hemlock)<sup title="not sure">?</sup>
+	- [RestfulX Framework](https://github.com/dima/restfulx_framework)

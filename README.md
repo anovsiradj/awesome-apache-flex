@@ -1,4 +1,4 @@
-### Awesome Flex
+# Awesome Flex
 
 A curated list of awesome things related to [Apache Flex](http://flex.apache.org/) a.k.a [Adobe Flex](http://www.adobe.com/products/flex.html).
 
@@ -23,3 +23,8 @@ A curated list of awesome things related to [Apache Flex](http://flex.apache.org
 	- [Flight Framework](https://github.com/jacwright/flight-framework)
 	- [Hemlock](https://github.com/mintdigital/hemlock)
 	- [RestfulX Framework](https://github.com/dima/restfulx_framework)
+
+### Documentations
+
+- [Latest Apache Documentation Official](http://flex.apache.org/asdoc/)
+- [Old Adobe Documentation Refference](http://help.adobe.com/en_US/flex/using/index.html)

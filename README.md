@@ -24,8 +24,8 @@ A curated list of awesome things related to [Apache Flex](http://flex.apache.org
 	- [Flight Framework](https://github.com/jacwright/flight-framework)
 	- [Hemlock](https://github.com/mintdigital/hemlock)
 	- [RestfulX Framework](https://github.com/dima/restfulx_framework)
-
-### Documentations
-
-- [Latest Apache Documentation Official](http://flex.apache.org/asdoc/)
-- [Old Adobe Documentation Refference](http://help.adobe.com/en_US/flex/using/index.html)
+- [Official]
+	- [Latest Apache Documentation](http://flex.apache.org/asdoc/)
+	- [Old Adobe Documentation Refference](http://help.adobe.com/en_US/flex/using/index.html)
+	- [Tour De Flex](http://flex.apache.org/tourdeflex/)
+	- [Adobe Flex Developer Center](http://www.adobe.com/devnet/flex.html)

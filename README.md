@@ -10,6 +10,7 @@ A curated list of awesome things related to [Apache Flex](http://flex.apache.org
 	- [Moonshine](http://moonshine-ide.com/)
 	- [Amethyst 2](http://www.sapphiresteel.com/Products/amethyst-ide/article/amethyst-2-product-page.html)
 - [Frameworks](#fws)
+	- [Ardisia Component Library](http://www.ardisialabs.com/)
 	- [Cairngorm](https://sourceforge.net/adobe/cairngorm/home/Home/)
 	- [Mate Flex Framework](http://mate.asfusion.com/)
 	- [Parsley](http://www.spicefactory.org/parsley/)
